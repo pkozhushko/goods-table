@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/goods-table/static/css/main.47b17af7.chunk.css",
+    "main.js": "/goods-table/static/js/main.f5706ab2.chunk.js",
+    "main.js.map": "/goods-table/static/js/main.f5706ab2.chunk.js.map",
+    "runtime~main.js": "/goods-table/static/js/runtime~main.af434ebd.js",
+    "runtime~main.js.map": "/goods-table/static/js/runtime~main.af434ebd.js.map",
+    "static/js/2.d6a534e5.chunk.js": "/goods-table/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "/goods-table/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "/goods-table/index.html",
+    "precache-manifest.c0ffef676f4ea3494a0afc77624f3285.js": "/goods-table/precache-manifest.c0ffef676f4ea3494a0afc77624f3285.js",
+    "service-worker.js": "/goods-table/service-worker.js",
+    "static/css/main.47b17af7.chunk.css.map": "/goods-table/static/css/main.47b17af7.chunk.css.map"
+  }
+}
