@@ -1,0 +1,28 @@
+.table-wrapper {
+  text-align: center;
+  width: 100vw;
+  height: 100vh;
+  background-color: #c8a6b5;
+}
+
+.search {
+  width: 40%;
+  margin: 5vh auto;
+  padding: 12px;
+}
+
+.table {
+  margin: 5vh auto;
+  background-color: #b9d5fd;
+  color: #071739;
+}
+.table td, .table th {
+  border: 1px solid #071739;
+}
+.table__head {
+  font-weight: 500;
+  background-color: #6b9de5;
+}
+.table__body {
+  width: 80%;
+}

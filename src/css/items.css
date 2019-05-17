@@ -1,0 +1,16 @@
+.item {
+  width: 100%;
+}
+
+.item__id{
+  width: 10%;
+}
+.item__name{
+  width: 50%;
+}
+.item__price{
+  width: 20%;
+}
+.item__quantity{
+  width: 20%;
+}
